@@ -1,4 +1,14 @@
-# “This tool is intended for educational and research-oriented exploration of neural network behavior.”
+## Motivation
+Activation functions play a critical role in neural network training, influencing
+non-linearity, gradient propagation, convergence, and stability.
+This interactive tool was built to explore and compare activation functions
+commonly used in deep learning and scientific machine learning (SciML),
+including smooth, bounded, self-normalizing, and wavelet-based activations.
+
+The app is intended for educational and research-oriented exploration and can be
+extended for use in physics-informed neural networks (PINNs),
+time-series forecasting models, and digital twin applications.
+
 # Activation Function Explorer
 
 Interactive Streamlit app to visualize classic, modern, and wavelet activation functions with their derivatives.
