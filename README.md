@@ -21,14 +21,14 @@ Interactive Streamlit app to visualize classic, modern, and wavelet activation f
   supporting analysis of smoothness, saturation, and gradient behavior.
 - Plotly charts, LaTeX-rendered equations, and sample output tables.
 
-
-## Run locally
+## Deployment Notes
+### Run locally
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Deploy to GitHub
+### Deploy to GitHub
 1) Initialize repo (from this folder):
 ```bash
 git init
@@ -43,7 +43,7 @@ git branch -M main
 git push -u origin main
 ```
 
-## Deploy to Streamlit Community Cloud
+### Deploy to Streamlit Community Cloud
 1) Go to https://share.streamlit.io, sign in with GitHub, and connect the public repo.  
 2) App settings:  
    - Repository: `hasiburusercase1996-collab/activation-functions`  
