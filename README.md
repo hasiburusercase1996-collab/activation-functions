@@ -14,9 +14,13 @@ time-series forecasting models, and digital twin applications.
 Interactive Streamlit app to visualize classic, modern, and wavelet activation functions with their derivatives.
 
 ## Features
-- Functions: Linear, Sigmoid, Tanh, ReLU/Leaky/ELU/SELU, Softplus/Softsign, Swish, Mish, GELU, Hard Sigmoid/Hard Swish, Morlet and Mexican Hat wavelets.
+- Functions: Linear, Sigmoid, Tanh, ReLU/Leaky/ELU/SELU, Softplus/Softsign,
+  Swish, Mish, GELU, Hard Sigmoid/Hard Swish, Morlet and Mexican Hat wavelets.
 - Adjustable parameters (e.g., leak α, Swish β, SELU λ/α, wavelet ω/σ).
-- Plotly charts for activation and derivative, LaTeX formulas, and sample values table.
+- Interactive visualization of activation functions and their derivatives,
+  supporting analysis of smoothness, saturation, and gradient behavior.
+- Plotly charts, LaTeX-rendered equations, and sample output tables.
+
 
 ## Run locally
 ```bash
