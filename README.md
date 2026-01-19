@@ -1,3 +1,4 @@
+# “This tool is intended for educational and research-oriented exploration of neural network behavior.”
 # Activation Function Explorer
 
 Interactive Streamlit app to visualize classic, modern, and wavelet activation functions with their derivatives.
